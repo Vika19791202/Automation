@@ -1,14 +1,6 @@
 def print_num(num):
-    print(num)
+    print("88005553535")
 
-print_num(8)
-print_num(8)
-print_num(0)
-print_num(0)
-print_num(5)
-print_num(5)
-print_num(5)
-print_num(3)
-print_num(5)
-print_num(3)
-print_num(5)
+# Вызываем функцию 11 раз
+for _ in range(11):
+    print_num(777)  # значение параметра не важно, номер печатается внутри функции
