@@ -1,0 +1,6 @@
+def print_num(num):
+    print("88005553535")
+
+# Вызываем функцию 11 раз
+for _ in range(11):
+    print_num(777) 
